@@ -1,0 +1,47 @@
+                                                                        j
+                                                                        |       
+                                                                        |
+         _______________________________________________________________|_______________________________________________________   
+         |                                                              |                                                       |
+         |                                                              |                                                       |
+         |                                                              |                                                       |
+      apperiance                                                    soft skill                                                 study  
+         |                                                              |                                                       |
+         |                                                              |                                                       |
+_________|__________                                    ________________|__________________                     ________________|_____________________________________________________________________        
+|        |          |                                   |               |                  |                    |               |                                                                   |
+gumna   parts     kam khanan                        comunication        book reading      s media          job search        diff things                                                          study things
+                                          _______________|_____________                                                        github                                                                |
+                                         |               |             |                                                       new tech                                             _________________|__________________________
+                                     calling           cource       youtube                                           docker, kubernative, ci cd                                    |                |                          |        
+                                                                                                                                                                                  java spring      revision                   extra 
+                                                                                                                                                                                  reactjs        coding question             resume 
+                                                                                                                                                                                  ionic            DSA                       cources
+                                                                                                                                                                                                   project                             
+
+
+
+
+
+book reading
+git 
+doker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
