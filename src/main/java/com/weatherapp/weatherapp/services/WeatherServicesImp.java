@@ -19,7 +19,7 @@ public class WeatherServicesImp implements WeatherServices {
     public WeatherData featchData(String city) {
         ResponseEntity<WeatherData> data = restTemplate.getForEntity(String.format("https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s",city,apiKey),WeatherData.class); 
        
-        return data.getBody();
+        return data.getBody();    
         
         
     }
