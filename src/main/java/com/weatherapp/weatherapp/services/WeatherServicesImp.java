@@ -8,7 +8,7 @@ import com.weatherapp.weatherapp.model.WeatherData;
 @Service
 public class WeatherServicesImp implements WeatherServices {
     
-    private String apiKey = "c95094e0677a8a7a608d853f2bdaf40a";
+    private String apiKey = "";
     private  RestTemplate restTemplate;
 
     WeatherServicesImp(RestTemplate restTemplate){
