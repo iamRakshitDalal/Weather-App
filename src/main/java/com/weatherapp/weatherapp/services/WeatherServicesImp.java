@@ -28,7 +28,7 @@ public class WeatherServicesImp implements WeatherServices {
             throw new RuntimeException("Failed to fetch weather data: " + response.getStatusCode());
         }
         
-        
+              
         
     }
     
